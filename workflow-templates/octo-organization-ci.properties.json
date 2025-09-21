@@ -1,0 +1,13 @@
+{
+    "name": "Octo Organization Workflow",
+    "description": "San San San Sample Octo Organization CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "SanSample"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
