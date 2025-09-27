@@ -1,0 +1,13 @@
+{
+    "name": "Build Java Project",
+    "description": "Java Build Java Project CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "SanSampleJava"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
